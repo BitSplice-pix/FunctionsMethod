@@ -6,7 +6,7 @@ public class Functions {
 
     }
                         /*  VOID IS A RETURN TYPE 
-                            IT DOES NOT RETURN ANY VALUE
+                            IT DOES NOT RETURN ANY THING
                         */
     public static void greetUser() {
         System.out.println("\nGood morning\n");
